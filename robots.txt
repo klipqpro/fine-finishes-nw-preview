@@ -1,0 +1,4 @@
+# Private preview — not for indexing.
+# Set STAGING = False in tools/build.py at launch, then rebuild.
+User-agent: *
+Disallow: /
